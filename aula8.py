@@ -1,7 +1,7 @@
 nome = 'Vinícius'
 sobrenome = 'Monteiro'
 idade = 22
-ano_nascimento = 2001
+ano_nascimento = 2023 - idade
 maior_de_idade = idade >= 18
 altura_metros = 1.78
 
